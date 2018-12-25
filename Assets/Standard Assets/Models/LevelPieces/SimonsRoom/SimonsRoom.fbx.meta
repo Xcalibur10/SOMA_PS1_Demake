@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: b2d747784f4781847bb6080a716cff94
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Lamp
+    100004: Plane
+    100006: //RootNode
+    100008: Sphere
+    100010: DoorFrame1
+    100012: DoorFrame2
+    100014: Empty
+    100016: Room
+    100018: Sky
+    100020: window_frame1
+    100022: Diagonal
+    100024: window_frame_bath
+    100026: Bed
+    100028: Bathroom
+    100030: HumanSize
+    100032: Toilet
+    100034: Room_entrance
+    100036: Room_middle
+    100038: NightStand
+    100040: Cube
+    100042: Room.001
+    100044: DeskLamp
+    100046: Shower
+    100048: RoomCeiling
+    100050: RoomWalls
+    100052: Room_middle_floor
+    100054: Room_WindowFrame
+    100056: Drawer
+    100058: Shelf
+    100060: Chair
+    100062: chest_of_drawers_medium
+    100064: Sofa
+    400000: Camera
+    400002: Lamp
+    400004: Plane
+    400006: //RootNode
+    400008: Sphere
+    400010: DoorFrame1
+    400012: DoorFrame2
+    400014: Empty
+    400016: Room
+    400018: Sky
+    400020: window_frame1
+    400022: Diagonal
+    400024: window_frame_bath
+    400026: Bed
+    400028: Bathroom
+    400030: HumanSize
+    400032: Toilet
+    400034: Room_entrance
+    400036: Room_middle
+    400038: NightStand
+    400040: Cube
+    400042: Room.001
+    400044: DeskLamp
+    400046: Shower
+    400048: RoomCeiling
+    400050: RoomWalls
+    400052: Room_middle_floor
+    400054: Room_WindowFrame
+    400056: Drawer
+    400058: Shelf
+    400060: Chair
+    400062: chest_of_drawers_medium
+    400064: Sofa
+    2000000: Camera
+    2100000: Checker
+    2100002: Wall
+    2100004: Floor
+    2100006: Ceiling
+    2100008: Bathroom1
+    2100010: sky
+    2100012: BathroomTile2
+    2100014: shower_drain
+    2100016: No Name
+    2100018: bed
+    2100020: Toilet
+    2100022: NightStand
+    2100024: Lamp
+    2100026: Chair
+    2100028: Shelf
+    2100030: drawer
+    2100032: blinn4.002
+    2100034: Material
+    2300000: Plane
+    2300002: //RootNode
+    2300004: Sphere
+    2300006: DoorFrame1
+    2300008: DoorFrame2
+    2300010: Room
+    2300012: Sky
+    2300014: window_frame1
+    2300016: Diagonal
+    2300018: window_frame_bath
+    2300020: Bed
+    2300022: Bathroom
+    2300024: HumanSize
+    2300026: Toilet
+    2300028: Room_entrance
+    2300030: Room_middle
+    2300032: NightStand
+    2300034: Cube
+    2300036: Room.001
+    2300038: DeskLamp
+    2300040: Shower
+    2300042: RoomCeiling
+    2300044: RoomWalls
+    2300046: Room_middle_floor
+    2300048: Room_WindowFrame
+    2300050: Drawer
+    2300052: Shelf
+    2300054: Chair
+    2300056: chest_of_drawers_medium
+    2300058: Sofa
+    3300000: Plane
+    3300002: //RootNode
+    3300004: Sphere
+    3300006: DoorFrame1
+    3300008: DoorFrame2
+    3300010: Room
+    3300012: Sky
+    3300014: window_frame1
+    3300016: Diagonal
+    3300018: window_frame_bath
+    3300020: Bed
+    3300022: Bathroom
+    3300024: HumanSize
+    3300026: Toilet
+    3300028: Room_entrance
+    3300030: Room_middle
+    3300032: NightStand
+    3300034: Cube
+    3300036: Room.001
+    3300038: DeskLamp
+    3300040: Shower
+    3300042: RoomCeiling
+    3300044: RoomWalls
+    3300046: Room_middle_floor
+    3300048: Room_WindowFrame
+    3300050: Drawer
+    3300052: Shelf
+    3300054: Chair
+    3300056: chest_of_drawers_medium
+    3300058: Sofa
+    4300000: Plane
+    4300002: Sphere
+    4300004: DoorFrame2
+    4300006: DoorFrame1
+    4300008: Sky
+    4300010: Room
+    4300012: window_frame1
+    4300014: Diagonal
+    4300016: window_frame_bath
+    4300018: Bed
+    4300020: Bathroom
+    4300022: Toilet
+    4300024: HumanSize
+    4300026: Room_entrance
+    4300028: Room_middle
+    4300030: NightStand
+    4300032: Cube
+    4300034: Room.001
+    4300036: Shower
+    4300038: DeskLamp
+    4300040: RoomCeiling
+    4300042: RoomWalls
+    4300044: Room_WindowFrame
+    4300046: Room_middle_floor
+    4300048: Shelf
+    4300050: Drawer
+    4300052: Chair
+    4300054: chest_of_drawers_medium
+    4300056: Sofa
+    6400000: Plane
+    6400002: //RootNode
+    6400004: Sphere
+    6400006: DoorFrame1
+    6400008: DoorFrame2
+    6400010: Room
+    6400012: Sky
+    6400014: window_frame1
+    6400016: Diagonal
+    6400018: window_frame_bath
+    6400020: Bed
+    6400022: Bathroom
+    6400024: HumanSize
+    6400026: Toilet
+    6400028: Room_entrance
+    6400030: Room_middle
+    6400032: NightStand
+    6400034: Cube
+    6400036: Room.001
+    6400038: DeskLamp
+    6400040: Shower
+    6400042: RoomCeiling
+    6400044: RoomWalls
+    6400046: Room_middle_floor
+    6400048: Room_WindowFrame
+    6400050: Drawer
+    6400052: Shelf
+    6400054: Chair
+    6400056: chest_of_drawers_medium
+    6400058: Sofa
+    10800000: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom1
+    second: {fileID: 2100000, guid: ced6cb2fae131ea41afd7d0193ff78b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BathroomTile2
+    second: {fileID: 2100000, guid: 108301d8007dbb34e97c62c18e612a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: 15fded7a117a164479ed70a4fa84221c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 9639325b7cbd82f4385be2cc25ad114a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: 9001fbd0bb960aa4c8d8f20ba588eaf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NightStand
+    second: {fileID: 2100000, guid: df4e29e5e302f184e8388a13689c91d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet
+    second: {fileID: 2100000, guid: d428bfdd1e14f1a4aaf00c40d44c22ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: c8aa2034a77e0ee46a70bdc7e614ff60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bed
+    second: {fileID: 2100000, guid: 4c81daefc1e271740a27f400cf8e6141, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shower_drain
+    second: {fileID: 2100000, guid: b7ed054267d09ce47b0a1993dc230dc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sky
+    second: {fileID: 2100000, guid: 7c1eaf5598a5ed44f8324b62b92fe4ed, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 29
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
